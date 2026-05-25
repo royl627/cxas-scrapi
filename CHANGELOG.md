@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/GoogleCloudPlatform/cxas-scrapi/compare/v1.3.0...v1.4.0) (2026-05-25)
+
+
+### Features
+
+* **cli:** add GECX tools, callbacks, and variables list/delete subcommands ([4ef9760](https://github.com/GoogleCloudPlatform/cxas-scrapi/commit/4ef9760b66c80869522bea15cf886f6ace141826))
+
 ## [1.3.0](https://github.com/GoogleCloudPlatform/cxas-scrapi/compare/v1.2.0...v1.3.0) (2026-05-22)
 
 
